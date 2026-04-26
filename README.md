@@ -6,8 +6,7 @@ In this project, I built a physics-based rocket simulator and used it to generat
 
 The simulator models rocket motion using thrust, gravity, and aerodynamic drag. By running hundreds of simulations with different input values, I created a dataset that was then used to train a Random Forest regression model.
 
-This project connects engineering simulation with data-driven prediction.
-
+This project connects engineering simulation with data-driven prediction and reflects how real-world systems are modeled before physical testing.
 ---
 
 ## Project Structure
@@ -97,6 +96,7 @@ python train_model.py
 ## Project Report
 
 A full write-up of this project is included in the repository.
+[Download Report](rocket_project_report.pdf)
 
 ---
 
