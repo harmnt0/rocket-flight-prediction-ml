@@ -70,4 +70,4 @@ python train_model.py
 
 A full write-up of this project is available here:
 
-[Download Report]
+[Download Report](_rocket-flight-prediction-ml_report.pdf)
