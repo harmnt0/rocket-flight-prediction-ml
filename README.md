@@ -65,3 +65,9 @@ Run:
 
 ```bash
 python train_model.py
+
+## 📄 Project Report
+
+A full write-up of this project is available here:
+
+[Download Report]
