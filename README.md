@@ -96,7 +96,7 @@ python train_model.py
 ## Project Report
 
 A full write-up of this project is included in the repository.
-[Download Report](rocket_project_report.pdf)
+[Download Report](rocket-flight-prediction-ml_report.pdf)
 
 ---
 
